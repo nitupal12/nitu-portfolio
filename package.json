@@ -1,6 +1,7 @@
 {
   "name": "nitu-portfolio",
   "type": "module",
+  "homepage": "https://nitupal12.github.io/nitu-portfolio/",
   "version": "0.0.0",
   "private": true,
   "scripts": {
