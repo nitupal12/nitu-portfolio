@@ -1,0 +1,167 @@
+{
+  "name": "Nitu Pal",
+  "jobTitle": "Desarrolladora Senior de React Native",
+  "meta": {
+    "title": "Nitu Pal - Desarrolladora Senior de React Native",
+    "description": "Desarrolladora de React Native con más de 9 años de experiencia en el desarrollo de aplicaciones móviles. Especializada en soluciones multiplataforma y experiencias móviles innovadoras."
+  },
+  "nav": {
+    "home": "Inicio",
+    "about": "Sobre Mí",
+    "experience": "Experiencia",
+    "testimonials": "Testimonios",
+    "contact": "Contacto"
+  },
+  "home": {
+    "greeting": "Hola, soy",
+    "intro": "Desarrolladora Senior de React Native con <1>+9 años</1> de experiencia creando aplicaciones móviles excepcionales que encantan a los usuarios e impulsan el éxito empresarial.",
+    "downloadResume": "Descargar CV",
+    "getInTouch": "Ponte en Contacto",
+    "stats": {
+      "experience": "Años de Experiencia",
+      "appsDelivered": "Apps Entregadas",
+      "technologies": "Tecnologías",
+      "satisfaction": "Satisfacción del Cliente"
+    },
+    "expertiseTitle": "Experiencia Principal",
+    "expertiseDescription": "Especializada en tecnologías móviles de vanguardia con un enfoque en rendimiento, escalabilidad y experiencia de usuario.",
+    "skills": {
+      "reactNative": "React Native",
+      "jsTs": "JavaScript/TypeScript",
+      "mobileArch": "Arquitectura Móvil",
+      "crossPlatform": "Desarrollo Multiplataforma"
+    },
+    "ctaTitle": "¿Listo para Construir Algo Asombroso?",
+    "ctaDescription": "Colaboremos para crear soluciones móviles innovadoras que marquen la diferencia."
+  },
+  "about": {
+    "title": "Sobre Mí",
+    "description": "Desarrolladora móvil apasionada con la misión de crear experiencias de usuario excepcionales a través de soluciones tecnológicas innovadoras.",
+    "storyTitle": "Mi Historia",
+    "storyContent1": "Con más de 9 años de experiencia en el desarrollo de aplicaciones móviles, he tenido el privilegio de trabajar en diversos proyectos que han dado forma a mi experiencia en React Native y desarrollo multiplataforma.",
+    "storyContent2": "Mi viaje comenzó con el desarrollo móvil nativo, pero rápidamente descubrí el poder de React Native para crear aplicaciones móviles eficientes, escalables y mantenibles.",
+    "storyContent3": "Creo en la importancia del código limpio, el trabajo en equipo colaborativo y el aprendizaje continuo. Cada proyecto es una oportunidad para innovar.",
+    "journeyTitle": "Mi Trayectoria",
+    "journeyDescription": "Una cronología de los hitos clave en mi carrera de desarrollo móvil.",
+    "journey": [
+      { "year": "2015", "title": "Comencé mi Viaje en Desarrollo Móvil", "description": "Explorando el desarrollo de apps con tecnologías nativas de Android e iOS." },
+      { "year": "2017", "title": "Descubrí React Native", "description": "Me enamoré de React Native y sus capacidades multiplataforma." },
+      { "year": "2019", "title": "Rol de Desarrolladora Senior", "description": "Liderando equipos y diseñando soluciones móviles complejas." },
+      { "year": "2024", "title": "Experta en la Industria", "description": "Reconocida como experta en desarrollo móvil con más de 9 años de experiencia." }
+    ],
+    "valuesTitle": "Valores Fundamentales",
+    "valuesDescription": "Los principios que guían mi enfoque del desarrollo y la colaboración.",
+    "values": [
+      { "title": "Código Limpio", "description": "Escribir código mantenible, escalable y bien documentado." },
+      { "title": "Colaboración", "description": "Creer en el trabajo en equipo y la comunicación abierta." },
+      { "title": "Aprendizaje Continuo", "description": "Mantenerme actualizada con las últimas tecnologías." },
+      { "title": "Centrado en el Usuario", "description": "Poner la experiencia del usuario en el centro de todo." }
+    ],
+    "funFactsTitle": "Datos Curiosos Sobre Mí",
+    "funFacts": [
+      { "emoji": "☕", "title": "Entusiasta del Café", "description": "Impulsada por café y pasión por codificar" },
+      { "emoji": "🚀", "title": "Amante de la Innovación", "description": "Siempre explorando nuevas tecnologías" },
+      { "emoji": "🎯", "title": "Resolviendo Problemas", "description": "Disfruto resolviendo desafíos técnicos complejos" }
+    ]
+  },
+  "experience": {
+    "title": "Experiencia y Proyectos",
+    "description": "Un resumen completo de mi trayectoria profesional, proyectos clave y experiencia técnica.",
+    "downloadResume": "Descargar CV Completo",
+    "proExperienceTitle": "Experiencia Profesional",
+    "proExperienceDescription": "Más de 9 años de crecimiento progresivo en el desarrollo móvil.",
+    "projectsTitle": "Proyectos Destacados",
+    "projectsDescription": "Muestra de aplicaciones móviles notables que he desarrollado.",
+    "skillsTitle": "Habilidades Técnicas",
+    "skillsDescription": "Conjunto de habilidades que cubren el espectro del desarrollo móvil.",
+    "demo": "Demo",
+    "code": "Código",
+    "keyAchievements": "Logros Clave",
+    "technologiesUsed": "Tecnologías Utilizadas",
+    "keyFeatures": "Características Clave"
+  },
+  "testimonials": {
+    "title": "Testimonios",
+    "description": "Lo que mis colegas, gerentes y clientes dicen sobre trabajar conmigo.",
+    "stats": {
+      "happyClients": "Clientes Felices",
+      "avgRating": "Calificación Promedio",
+      "projectsCompleted": "Proyectos Completados",
+      "recommendation": "Tasa de Recomendación"
+    },
+    "whatPeopleSay": "Lo que Dice la Gente",
+    "feedback": "Comentarios genuinos de las personas increíbles con las que he trabajado.",
+    "connect": "Conectar",
+    "email": "Correo",
+    "skillsValidationTitle": "Validación de Habilidades",
+    "skillsValidationDescription": "Fortalezas clave destacadas consistentemente por colegas.",
+    "skills": [
+      { "skill": "Excelencia Técnica" },
+      { "skill": "Resolución de Problemas" },
+      { "skill": "Colaboración en Equipo" },
+      { "skill": "Entrega de Proyectos" }
+    ],
+    "mentionedInReviews": "Mencionado en {{count}} reseñas",
+    "ctaTitle": "¿Quieres Añadir tu Testimonio?",
+    "ctaDescription": "Si hemos trabajado juntos, ¡me encantaría saber de tu experiencia!",
+    "shareExperience": "Comparte tu Experiencia",
+    "testimonialModal": {
+      "title": "Comparte tu Experiencia",
+      "description": "¡Gracias por tu tiempo! Tu opinión es muy valiosa.",
+      "name": "Nombre",
+      "role": "Rol / Cargo",
+      "company": "Empresa",
+      "review": "Tu Reseña",
+      "rating": "Calificación (de 5)",
+      "email": "Correo Electrónico",
+      "linkedin": "URL de Perfil de LinkedIn",
+      "duration": "Tiempo que trabajamos juntos",
+      "submit": "Enviar Reseña"
+    }
+  },
+  "contact": {
+    "title": "Conectemos",
+    "description": "¿Listo para discutir tu próximo proyecto móvil? Me encantaría saber de ti.",
+    "sendMessage": "Enviar un Mensaje",
+    "form": {
+      "name": "Nombre",
+      "email": "Correo",
+      "subject": "Asunto",
+      "message": "Mensaje",
+      "placeholders": {
+        "name": "Tu nombre",
+        "email": "tu.correo@ejemplo.com",
+        "subject": "Consulta de proyecto, colaboración, etc.",
+        "message": "Cuéntame sobre tu proyecto..."
+      }
+    },
+    "getInTouch": "Ponte en Contacto",
+    "info": {
+      "email": "Correo",
+      "phone": "Teléfono",
+      "location": "Ubicación",
+      "availability": "Disponibilidad"
+    },
+    "followMe": "Sígueme",
+    "quickResponse": "Respuesta Rápida",
+    "quickResponseText": "Normalmente respondo en 24 horas. Para consultas urgentes, contáctame por teléfono o LinkedIn.",
+    "howICanHelp": "Cómo Puedo Ayudar",
+    "howICanHelpDescription": "Ofrezco una gama de servicios para tus necesidades de desarrollo.",
+    "services": [
+      { "title": "Desarrollo de Apps Móviles", "description": "Apps personalizadas con React Native para iOS y Android.", "features": ["Desarrollo multiplataforma", "Rendimiento nativo", "Publicación en tiendas"] },
+      { "title": "Consultoría Técnica", "description": "Asesoramiento experto en arquitectura móvil y tecnología.", "features": ["Revisión de arquitectura", "Selección de tecnología", "Optimización del rendimiento"] },
+      { "title": "Liderazgo de Equipos", "description": "Liderando equipos de desarrollo y mentorizando.", "features": ["Gestión de equipos", "Revisiones de código", "Formación en buenas prácticas"] },
+      { "title": "Auditoría de Código", "description": "Análisis exhaustivo de código y recomendaciones.", "features": ["Evaluación de calidad", "Revisión de seguridad", "Análisis de rendimiento"] }
+    ],
+    "ctaTitle": "¿Listo Para Empezar tu Proyecto?",
+    "ctaDescription": "Hablemos de tus ideas para apps móviles y hagámoslas realidad.",
+    "scheduleCall": "Agendar una Llamada",
+    "viewPortfolio": "Ver Portafolio"
+  },
+  "toasts": {
+    "notImplemented": "🚧 Esta función aún no está implementada, ¡pero no te preocupes! ¡Puedes solicitarla en tu próximo mensaje! 🚀",
+    "resumeDownload": "Descargando CV...",
+    "formSubmission": "¡Gracias por tus comentarios! Se han enviado.",
+    "error": "Algo salió mal. Por favor, inténtalo de nuevo."
+  }
+}
