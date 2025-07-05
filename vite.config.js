@@ -200,7 +200,7 @@ export default defineConfig({
     react(),
     addTransformIndexHtml,
   ],
-  base: "/nitu-portfolio",
+  base: "/nitu-portfolio/",
   server: {
     cors: true,
     headers: {
